@@ -2,5 +2,6 @@
 
 int main()
 {
-	std::cout << "demo01, hello world" << std::endl;
+	std::cout << "this demo01, hello world" << std::endl;
+	return 0;
 }
